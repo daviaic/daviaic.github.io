@@ -1,7 +1,5 @@
 # Site Acadêmico Pessoal
 
-Um site elegante e minimalista para pesquisadores acadêmicos, inspirado no design clean e profissional.
-
 ## 📁 Estrutura de Arquivos
 
 ```
