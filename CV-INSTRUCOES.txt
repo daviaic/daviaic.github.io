@@ -1,0 +1,51 @@
+# INSTRUÇÕES PARA O CV (CURRÍCULO)
+
+## ⚠️ IMPORTANTE
+
+Você precisa adicionar seu arquivo de CV em formato PDF com o nome: **cv.pdf**
+
+Coloque este arquivo na raiz do projeto (mesma pasta dos arquivos HTML).
+
+## Como Preparar seu CV:
+
+1. **Se você já tem um CV em Word:**
+   - Abra o arquivo no Word
+   - Vá em "Arquivo" > "Salvar Como"
+   - Escolha o formato "PDF"
+   - Salve como "cv.pdf"
+
+2. **Se você precisa criar um CV:**
+   - Use templates gratuitos:
+     - Overleaf (LaTeX): https://www.overleaf.com/gallery/tagged/cv
+     - Canva: https://www.canva.com/templates/s/cv/
+     - Google Docs templates
+   - Exporte sempre em PDF
+
+3. **Dicas para um bom CV acadêmico:**
+   - Máximo 2-3 páginas
+   - Inclua: educação, experiência, publicações, prêmios
+   - Use fonte profissional (não use Comic Sans!)
+   - Mantenha formatação limpa e organizada
+
+## ✅ Checklist do CV:
+
+- [ ] Nome completo e informações de contato
+- [ ] Educação (graduação, mestrado, PhD)
+- [ ] Experiência profissional e acadêmica
+- [ ] Publicações principais
+- [ ] Habilidades técnicas
+- [ ] Idiomas
+- [ ] Prêmios e bolsas (se houver)
+
+## Arquivo Final:
+
+Nome do arquivo: **cv.pdf**
+Local: Raiz do projeto (junto com index.html)
+
+Após adicionar o CV, você pode deletar este arquivo de instruções.
+
+---
+
+**Nota:** Se você não quiser disponibilizar o CV publicamente, você pode:
+1. Remover o link "CV" do menu de navegação em todos os arquivos HTML
+2. Ou manter o link e colocar um PDF com apenas informações básicas
